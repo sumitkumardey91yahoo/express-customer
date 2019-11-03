@@ -14,6 +14,7 @@
     "ejs": "^2.7.1",
     "express": "^4.17.1",
     "express-fileupload": "^1.1.6-alpha.6",
+    "heroku": "^7.33.3",
     "mysql": "^2.17.1",
     "req-flash": "0.0.3"
   },
@@ -30,5 +31,4 @@
     "url": "https://github.com/heroku/node-js-getting-started/issues"
   },
   "homepage": "https://github.com/heroku/node-js-getting-started#readme"
-
 }
